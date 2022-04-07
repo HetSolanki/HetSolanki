@@ -1,4 +1,4 @@
-### Hey.!👋 I’m @HetSolanki
+### Hey 👋 I’m Het Solanki
 
 
 - 👀 I’m interested in ... Application Development
