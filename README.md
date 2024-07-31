@@ -5,7 +5,7 @@ With a passion for web development and a drive to continuously improve, I bring 
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Java, C, C++, Python
-- **Frameworks & Libraries:** React, Node.js, Express.js
+- **Frameworks & Libraries:** React, Node.js, Express.js, WhastApp Cloud API, Twillo
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **ORM**: mongoose, prisma
 - **Tools & Platforms:** GitHub, Vercel, render
